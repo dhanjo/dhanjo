@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhananjay Garg</h1>
 <h3 align="center">A passionate cybersecurity and AI enthusiast.</h3>
 
-- 🔭 I’m currently working on **External Attack Surface Management Tool**
-
 - 🌱 I’m currently learning **AI integration in cybersecurity tools.**
 
 - 📄 Know about my experiences [https://dhananjaygarg.com](https://dhananjaygarg.com)
