@@ -56,7 +56,7 @@
 <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
 <a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40"/></a>
-<a href="https://www.chromadb.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/127336207?s=200&v=4" alt="Chroma DB" width="40" height="40"/></a>
+<a href="https://www.chromadb.com/" target="_blank"><img src="https://miro.medium.com/v2/resize:fit:536/format:webp/1*2ofNU5JgKwcqT_wORFEK_w.png" alt="Chroma DB" width="40" height="40"/></a>
 <a href="https://www.pinecone.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/68452126?s=200&v=4" alt="Pinecone" width="40" height="40"/></a>
 
 </p>
