@@ -44,9 +44,9 @@
 <!-- Cybersecurity Tools -->
 <a href="https://www.wazuh.com/" target="_blank"><img src="https://wazuh.com/uploads/2022/05/WAZUH.png" alt="Wazuh" width="40" height="40"/></a>
 <a href="https://www.elastic.co/elk-stack" target="_blank"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="ELK Stack" width="40" height="40"/></a>
-<a href="https://www.tenable.com/products/nessus" target="_blank"><img src="https://www.tenable.com/sites/drupal.dmz.tenablesecurity.com/files/images/logos/Tenable-Nessus-Logo.png" alt="Nessus" width="40" height="40"/></a>
+<a href="https://www.tenable.com/products/nessus" target="_blank"><img src="https://images.saasworthy.com/nessus_9107_logo_1635748159_s3yba.jpg" alt="Nessus" width="40" height="40"/></a>
 <a href="https://nmap.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Nmap" width="40" height="40"/></a>
-<a href="https://portswigger.net/burp" target="_blank"><img src="https://avatars.githubusercontent.com/u/20391488?s=200&v=4" alt="Burp Suite" width="40" height="40"/></a>
+<a href="https://portswigger.net/burp" target="_blank"><img src="https://logon-int.com/wp-content/uploads/2020/08/portswigger-01.png" alt="Burp Suite" width="40" height="40"/></a>
 <a href="https://www.wireshark.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="Wireshark" width="40" height="40"/></a>
 
 <!-- AI & GenAI -->
