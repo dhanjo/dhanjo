@@ -25,18 +25,40 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://golang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=WHRLQdbEXQ16&format=png&color=000000" alt="gcp" width="40" height="40"/></a>
-<a href="https://www.elastic.co/elk-stack" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elk" width="40" height="40"/></a>
-<a href="https://www.wazuh.com/" target="_blank" rel="noreferrer"><img src="https://wazuh.com/uploads/2022/05/WAZUH.png" width="40" height="40"/></a>
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-<a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="wireshark" width="40" height="40"/></a>
-<a href="https://www.nmap.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="nmap" width="40" height="40"/></a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-<a href="https://langchain.com/" target="_blank" rel="noreferrer"><img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/langchain-ipuhh4qo1jz5ssl4x0g2a.png/langchain-dp1uxj2zn3752pntqnpfu2.png?_a=DATAg1AAZAA0" width="40" height="40"/></a>
+<!-- Programming Languages -->
+<a href="https://golang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/></a>
+<a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
+
+<!-- Cloud & Infra -->
+<a href="https://cloud.google.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=WHRLQdbEXQ16&format=png&color=000000" alt="GCP" width="40" height="40"/></a>
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
+<a href="https://azure.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/></a>
+
+<!-- Cybersecurity Tools -->
+<a href="https://www.wazuh.com/" target="_blank"><img src="https://wazuh.com/uploads/2022/05/WAZUH.png" alt="Wazuh" width="40" height="40"/></a>
+<a href="https://www.elastic.co/elk-stack" target="_blank"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="ELK Stack" width="40" height="40"/></a>
+<a href="https://www.tenable.com/products/nessus" target="_blank"><img src="https://www.tenable.com/sites/drupal.dmz.tenablesecurity.com/files/images/logos/Tenable-Nessus-Logo.png" alt="Nessus" width="40" height="40"/></a>
+<a href="https://nmap.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Nmap" width="40" height="40"/></a>
+<a href="https://portswigger.net/burp" target="_blank"><img src="https://avatars.githubusercontent.com/u/20391488?s=200&v=4" alt="Burp Suite" width="40" height="40"/></a>
+<a href="https://www.wireshark.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="Wireshark" width="40" height="40"/></a>
+
+<!-- AI & GenAI -->
+<a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/></a>
+<a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a>
+<a href="https://langchain.com/" target="_blank"><img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/langchain-ipuhh4qo1jz5ssl4x0g2a.png/langchain-dp1uxj2zn3752pntqnpfu2.png?_a=DATAg1AAZAA0" alt="LangChain" width="40" height="40"/></a>
+<a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
+<a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40"/></a>
+<a href="https://www.chromadb.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/127336207?s=200&v=4" alt="Chroma DB" width="40" height="40"/></a>
+<a href="https://www.pinecone.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/68452126?s=200&v=4" alt="Pinecone" width="40" height="40"/></a>
+
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanjo&show_icons=true&locale=en&layout=compact" alt="dhanjo" /></p>
