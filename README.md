@@ -27,7 +27,7 @@
 <p align="left">
 <a href="https://golang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/cloudgoogle/cloudgoogle-icon.svg" alt="gcp" width="40" height="40"/></a>
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=WHRLQdbEXQ16&format=png&color=000000" alt="gcp" width="40" height="40"/></a>
 <a href="https://www.elastic.co/elk-stack" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elk" width="40" height="40"/></a>
 <a href="https://www.wazuh.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/wazuh/wazuh-icon.svg" alt="wazuh" width="40" height="40"/></a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
