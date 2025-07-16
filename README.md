@@ -36,7 +36,7 @@
 <a href="https://www.nmap.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="nmap" width="40" height="40"/></a>
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-<a href="https://langchain.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/114604226?s=200&v=4" alt="langchain" width="40" height="40"/></a>
+<a href="https://langchain.com/" target="_blank" rel="noreferrer"><img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/langchain-ipuhh4qo1jz5ssl4x0g2a.png/langchain-dp1uxj2zn3752pntqnpfu2.png?_a=DATAg1AAZAA0" width="40" height="40"/></a>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanjo&show_icons=true&locale=en&layout=compact" alt="dhanjo" /></p>
