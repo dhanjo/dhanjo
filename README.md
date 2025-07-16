@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently building **LLM-powered cybersecurity tools using MCP**
 
-- 🌱 Exploring **advanced threat modeling and AI automation**
+- 🌱 Exploring **advanced threat modelling and AI automation**
 
 - 👯 Looking to collaborate on **AI x Cybersecurity and Red Team automation**
 
