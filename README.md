@@ -93,5 +93,5 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dhanjo&theme=tokyonight&hide_border=true" alt="streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanjo&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
 </p>
