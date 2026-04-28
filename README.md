@@ -91,7 +91,3 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=dhanjo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanjo&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanjo&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
-</p>
